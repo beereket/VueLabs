@@ -1,4 +1,4 @@
-# lab2
+# quiz
 
 ## Project setup
 ```
